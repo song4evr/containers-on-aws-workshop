@@ -1,4 +1,4 @@
-![workshop logo](https://github.com/bemer/containers-on-aws-workshop/blob/master/images/containers-on-aws-worshop-logo.jpg)
+![workshop logo](https://github.com/sonjin/containers-on-aws-workshop/blob/master/images/containers-on-aws-worshop-logo.jpg)
 
 # Welcome to the Containers On AWS Workshop
 
@@ -12,7 +12,7 @@ We will walk you through the very basics of containers: from installing and conf
 
 We strongly recommend you spinning up a Cloud9 environment. Optionally, you can spin up an EC2 instance with Amazon Linux.
 
-If you choose Cloud9, all you have to do is jump to [01-EnvironmentSetup](https://github.com/bemer/containers-on-aws-workshop/tree/master/01-EnvironmentSetup).
+If you choose Cloud9, all you have to do is jump to [01-EnvironmentSetup](https://github.com/sonjin/containers-on-aws-workshop/tree/master/01-EnvironmentSetup).
 
 If you want to run on a EC2 instance, the following links will guide you through the instance creation process and how to access it:
 

@@ -393,5 +393,5 @@ Go to your app URL and see the new text!
 
 [![back to menu](/images/back_to_menu.png)][back-to-menu]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![continue workshop](/images/continue_workshop.png)][continue-workshop]
 
-[back-to-menu]: https://github.com/bemer/containers-on-aws-workshop
+[back-to-menu]: https://github.com/sonjin/containers-on-aws-workshop
 [continue-workshop]: /06-AutoScaling
