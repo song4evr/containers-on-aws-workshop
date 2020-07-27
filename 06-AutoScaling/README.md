@@ -108,7 +108,7 @@ After generating load against your application, you should be able to see it sca
 
 [![back to menu](/images/back_to_menu.png)][back-to-menu]
 
-[back-to-menu]: https://github.com/sonjin/containers-on-aws-workshop
+[back-to-menu]: https://github.com/song4evr/containers-on-aws-workshop
 
 
 [us-east-1-load-testing]: https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=containers-workshop-load-testing&templateURL=https://sonjin-aws-demo.s3.ap-northeast-2.amazonaws.com/containers-on-aws-workshop-vpc/load_test_instance.json

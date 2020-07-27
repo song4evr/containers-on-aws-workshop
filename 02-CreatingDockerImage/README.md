@@ -53,7 +53,7 @@ The following steps should be executed on your own computer or Cloud9 instance, 
 
 If you haven't executed the `git clone` command present in the [Setup Environment](/01-SetupEnvironment#5-cloning-the-workshop-repository) chapter, do it now using the following command:
 
-    $ git clone https://github.com/sonjin/containers-on-aws-workshop.git
+    $ git clone https://github.com/song4evr/containers-on-aws-workshop.git
 
 Now we are going to build and test our containers locally.  If you've never worked with Docker before, there are a few basic commands that we'll use in this workshop, but you can find a more thorough list in the [Docker "Getting Started" documentation](https://docs.docker.com/engine/getstarted/).
 
@@ -280,5 +280,5 @@ You can see your pushed images by viewing the repository in the AWS Console.  Al
 
 [![back to menu](/images/back_to_menu.png)][back-to-menu]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![continue workshop](/images/continue_workshop.png)][continue-workshop]
 
-[back-to-menu]: https://github.com/sonjin/containers-on-aws-workshop
+[back-to-menu]: https://github.com/song4evr/containers-on-aws-workshop
 [continue-workshop]: /03-DeployEcsCluster

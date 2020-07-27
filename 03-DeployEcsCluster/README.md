@@ -230,5 +230,5 @@ You can see that the ALB routes traffic appropriately based on the path (`/`) we
 
 [![back to menu](/images/back_to_menu.png)][back-to-menu]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![continue workshop](/images/continue_workshop.png)][continue-workshop]
 
-[back-to-menu]: https://github.com/sonjin/containers-on-aws-workshop
+[back-to-menu]: https://github.com/song4evr/containers-on-aws-workshop
 [continue-workshop]: /04-DeployFargate

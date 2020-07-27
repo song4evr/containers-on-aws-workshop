@@ -110,5 +110,5 @@ Now, take a moment to spend some time navigating in the AWS Fargate. Here is a l
 
 [![back to menu](/images/back_to_menu.png)][back-to-menu]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![continue workshop](/images/continue_workshop.png)][continue-workshop]
 
-[back-to-menu]: https://github.com/sonjin/containers-on-aws-workshop
+[back-to-menu]: https://github.com/song4evr/containers-on-aws-workshop
 [continue-workshop]: /05-ContinuousDelivery

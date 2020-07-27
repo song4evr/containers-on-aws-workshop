@@ -74,7 +74,7 @@ On the top window, you have a text editor, where you can make all the changes in
 
 In order to clone this repository, you can use the following command:
 
-    $ git clone https://github.com/sonjin/containers-on-aws-workshop.git
+    $ git clone https://github.com/song4evr/containers-on-aws-workshop.git
 
 After cloning the repository, you will see that a new folder called `containers-on-aws-workshop` will be created. All the content will be available inside this folder.
 
@@ -191,7 +191,7 @@ After completing the setup of your computer, you must create the VPC infrastrutc
 
 In order to clone this repository, you can use the following command:
 
-    $ git clone https://github.com/sonjin/containers-on-aws-workshop.git
+    $ git clone https://github.com/song4evr/containers-on-aws-workshop.git
 
 After cloning the repository, you will see that a new folder called `containers-on-aws-workshop` will be created. All the content will be available inside this folder.
 
@@ -199,7 +199,7 @@ After cloning the repository, you will see that a new folder called `containers-
 
 [![back to menu](/images/back_to_menu.png)][back-to-menu]  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![continue workshop](/images/continue_workshop.png)][continue-workshop]
 
-[back-to-menu]: https://github.com/sonjin/containers-on-aws-workshop
+[back-to-menu]: https://github.com/song4evr/containers-on-aws-workshop
 [continue-workshop]: /02-CreatingDockerImage
 
 [us-east-1-with-cloud9]: https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=containers-workshop-insfrastructure&templateURL=https://s3.amazonaws.com/containers-on-aws-workshop-vpc/containers-workshop-with-cloud9.yaml
